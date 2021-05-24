@@ -1,1 +1,3 @@
 # image360
+
+爬取360全站图片保存到mysql和mongodb数据库中
